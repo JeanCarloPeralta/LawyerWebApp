@@ -1,0 +1,72 @@
+﻿@model Proyecto_Abogados.ViewModels.CitaEspecialidadViewModel
+@{
+    ViewBag.Title = "Cita";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    long idUsuario = 0; 
+     if (Session["Id_Usuario"] != null && long.TryParse(Session["Id_Usuario"].ToString(), out long parsedIdUsuario))
+    {
+        idUsuario = parsedIdUsuario;
+    }
+}
+<!-- breadcrumb start-->
+<section class="breadcrumb breadcrumb_bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb_iner text-center">
+                    <div class="breadcrumb_iner_item">
+                        <h2>Formulario Citas</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- breadcrumb start-->
+<!-- Start Align Area -->
+<div class="whole-wrap">
+    <div class="container box_1170">
+        <div class="section-top-border">
+            <div class="row">
+                <div class="col-lg-6 col-md-6">
+                    <h3 class="mb-30">Solicitud Citas</h3>
+                    @using (Html.BeginForm("CrearCita", "Home", FormMethod.Post))
+                    {
+                        <input type="text" name="Id_Usuario" value="@idUsuario" hidden>
+
+                        <div class="mt-10">
+                            @Html.TextBoxFor(m => m.Cita.Nombre_Cliente, new { @type = "text", @class = "form-control single-input", @placeholder = "Nombre", @required = "required" })
+                        </div>
+                        <div class="mt-10">
+                            @Html.TextBoxFor(m => m.Cita.Correo_Electronico, new { @type = "email", @class = "form-control single-input", @placeholder = "correo@correo.com", @required = "required" })
+                        </div>
+                        <div class="mt-10">
+                            @Html.TextBoxFor(m => m.Cita.Telefono, new { @type = "tel", @class = "form-control single-input", @placeholder = "telefono", @required = "required" })
+                        </div>
+                        <div class="mt-10">
+                            @Html.TextBoxFor(m => m.Cita.Fecha_Hora, new { @type = "date", @class = "form-control single-input", @placeholder = "fechacita", @required = "required" })
+                        </div>
+                        <div class="input-group-icon mt-10">
+                            <div class="icon"><i class="fa-solid fa-gavel" aria-hidden="true"></i></div>
+                            <div class="form-select" id="default-select">
+                                <select name="IdEspecialidad" style="font-size: 15px;"> 
+                                    <option value="">Selecciona una especialidad</option>
+                                    @foreach (var especialidad in Model.Especialidades)
+                                    {
+                                        <option value="@especialidad.Id_Especialidad">@especialidad.Nombre_Especialidad</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="mb-30 btn-group">
+                            <button type="submit" class="genric-btn primary e-large">Confirmar Cita</button>
+                        </div>
+                    }
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <img src="~/img/consult/consult-1.png" alt="slideimg" class="image">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

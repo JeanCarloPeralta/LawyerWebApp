@@ -1,0 +1,762 @@
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.AssemblyReference.cache
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CoreCompileInputs.cache
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll.config
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.pdb
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.rsp
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.rsp
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.AppContext.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Console.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Http.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.ValueTuple.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.rsp
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\WebGrease.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.pdb
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Optimization.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Razor.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Helpers.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Mvc.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CopyComplete
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Proyecto_Abogados\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.pdb
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.pdb
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.rsp
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.rsp
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.AppContext.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Collections.Immutable.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Console.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Globalization.Calendars.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Http.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Sockets.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Reflection.Metadata.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.ValueTuple.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.rsp
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.jQuery.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Web.Infrastructure.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\WebGrease.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.pdb
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Optimization.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Razor.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Helpers.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Mvc.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.AssemblyReference.cache
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CoreCompileInputs.cache
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CopyComplete
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega 2\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.pdb
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll.config
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.pdb
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.rsp
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.rsp
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.AppContext.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Console.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Http.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.ValueTuple.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.rsp
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\WebGrease.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.pdb
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Optimization.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Razor.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Helpers.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Mvc.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.AssemblyReference.cache
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CoreCompileInputs.cache
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CopyComplete
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.dll
+C:\Users\pamel\Desktop\Progra Avanzada\DocumentosProyectosFer\Proyecto_Abogados_ConAPI\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.pdb
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.pdb
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.rsp
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.rsp
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.AppContext.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Collections.Immutable.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Console.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Globalization.Calendars.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Http.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Sockets.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Reflection.Metadata.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.ValueTuple.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.rsp
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.jQuery.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Web.Infrastructure.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\WebGrease.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.pdb
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Optimization.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Razor.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Helpers.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Mvc.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.AssemblyReference.cache
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CoreCompileInputs.cache
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CopyComplete
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_3\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.pdb
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll.config
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.pdb
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.rsp
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.rsp
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.AppContext.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Console.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Http.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.ValueTuple.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.rsp
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\WebGrease.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.pdb
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Optimization.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Razor.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Helpers.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Mvc.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.AssemblyReference.cache
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CoreCompileInputs.cache
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CopyComplete
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.dll
+C:\Users\pamel\Desktop\Progra Avanzada\Versiones del proyecto\Version5\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.pdb
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Proyecto_Abogados.pdb
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csc.rsp
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\csi.rsp
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.AppContext.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Collections.Immutable.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Console.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Globalization.Calendars.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Http.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Net.Sockets.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Reflection.Metadata.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.ValueTuple.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\vbc.rsp
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\roslyn\VBCSCompiler.exe.config
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\AspNet.ScriptManager.jQuery.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Web.Infrastructure.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\WebGrease.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\EntityFramework.SqlServer.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Buffers.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Memory.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Json.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Numerics.Vectors.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Encodings.Web.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Text.Json.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Threading.Tasks.Extensions.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.ValueTuple.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Optimization.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Newtonsoft.Json.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Antlr3.Runtime.pdb
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Razor.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Deployment.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Webpages.Razor.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Helpers.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Mvc.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Net.Http.Formatting.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\System.Web.Http.WebHost.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Optimization.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Razor.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Helpers.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Mvc.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.AssemblyReference.cache
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CoreCompileInputs.cache
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.csproj.CopyComplete
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.dll
+D:\Setimo_Cuatrimestre\Programacion Avanzada\Proyecto\Entrega_Final\Proyecto_Abogados\Proyecto_Abogados\obj\Debug\Proyecto_Abogados.pdb

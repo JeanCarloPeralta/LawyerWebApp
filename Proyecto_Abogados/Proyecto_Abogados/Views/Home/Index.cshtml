@@ -1,0 +1,388 @@
+@model Proyecto_Abogados.Entities.ConsultaEnt
+@{
+    ViewBag.Title = "Index"; 
+    Layout = "~/Views/Shared/_Layout.cshtml"; 
+    }
+<!-- banner part start-->
+<section class="banner_part">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="banner_text">
+                    <div class="banner_text_iner">
+                        <h1>
+                            Justicia y Ley:<br>
+                            Tu Bufete de Abogados de Confianza
+                        </h1>
+                        <p>
+                            Soluciones Legales a la Medida de tus Necesidades. Protegiendo tus Intereses con Pasión y Profesionalismo
+                        </p>
+                        <div class="banner_btn">
+                            <a href="@Url.Action("About", "Home")" class="btn_1">Más sobre nosotros</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- banner part start-->
+<!-- about part start-->
+<section class="about_part section_padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="section_tittle text-center">
+                    <h2>
+                        La verdad de los abogados no es la verdad,
+                        sino la coherencia o una conveniencia coherente
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-7 col-sm-7">
+                <div class="about_part_img">
+                    <img src="~/img/about_1.png" alt="#">
+                </div>
+            </div>
+            <div class="col-lg-5 col-sm-5 d-none d-sm-block">
+                <div class="about_part_img">
+                    <img src="~/img/about_2.png" alt="#">
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="about_text text-center">
+                    <p>
+                        "La justicia es la reina de las virtudes y con ella se sostiene la igualdad y la libertad". - Simón Bolívar
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- about part end-->
+<!-- Service part start-->
+<section class="service_part section_padding">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_service_part">
+                    <div class="single_service_text">
+                        <span class="flaticon-law"></span>
+                        <h2>Obtener asesoramiento jurídico</h2>
+                        <p>
+                            Si estás enfrentando una situación legal compleja y necesitas orientación,
+                            nuestro equipo de expertos está aquí para brindarte el asesoramiento jurídico que necesitas.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_service_part">
+                    <div class="single_service_text">
+                        <span class="flaticon-scale"></span>
+                        <h2>Revisar un caso</h2>
+                        <p>
+                            Nuestros abogados y notarios altamente capacitados analizarán detenidamente
+                            todos los detalles y documentos pertinentes relacionados con su situación legal.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_service_part">
+                    <div class="single_service_text">
+                        <span class="flaticon-siren"></span>
+                        <h2>Garantía de victoria</h2>
+                        <p>En nuestro bufete, nos enorgullecemos de brindar una representación legal excepcional a nuestros clientes.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_service_part">
+                    <div class="single_service_text">
+                        <span class="flaticon-policeman"></span>
+                        <h2>Apoyo total</h2>
+                        <p>Nuestra misión es brindar un servicio legal y notarial integral que supere las expectativas de nuestros clientes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Service part end-->
+<!-- our_offer part start-->
+<section class="our_offer case_study section_padding">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-lg-5 col-sm-10">
+                <div class="section_tittle">
+                    <h2>Algunos de nuestros servicios</h2>
+                    <p>
+                        En nuestro bufete, nos enorgullecemos de ofrecer una amplia gama de servicios legales y notariales de la más alta calidad.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-between">
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_offer_part">
+                    <div class="single_offer">
+                        <img src="~/img/offer_img_1.png" alt="offer_img_1">
+                        <div class="hover_text">
+                            <h2>Servicios Familiares</h2>
+                            <p>Servicio 24 horas</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_offer_part">
+                    <div class="single_offer">
+                        <img src="~/img/offer_img_2.png" alt="offer_img_1">
+                        <div class="hover_text">
+                            <h2>Abogados Financieros</h2>
+                            <p>Protección bancaria</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_offer_part">
+                    <div class="single_offer">
+                        <img src="~/img/offer_img_3.png" alt="offer_img_1">
+                        <div class="hover_text">
+                            <h2>Mercado Capital</h2>
+                            <p>Garantizado asesoría</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- our_offer part end-->
+<!-- team_part part start-->
+<section class="team_part our_offer section_bg section_padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7 col-sm-10">
+                <div class="section_tittle">
+                    <h2>Conoce a nuestro equipo</h2>
+                    <p>
+                        Conoce a nuestros colaboradores, un equipo con etica y profesionalismo que te garantiza la excelencia de nuestros servicios
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-between">
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_offer_part">
+                    <div class="single_offer">
+                        <img src="~/img/team/team_member_1.png" alt="offer_img_1">
+                        <div class="hover_text">
+                            <p>stephenhockin@Bufete.com</p>
+                            <div class="team_social_icon">
+                                <a href="#"> <span class="ti-twitter"></span> </a>
+                                <a href="#"> <span class="ti-skype"></span> </a>
+                                <a href="#"> <span class="ti-instagram"></span> </a>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="team_member_info">
+                        <h4>Stephen Hockin</h4>
+                        <p>Derecho Informático</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_offer_part">
+                    <div class="single_offer">
+                        <img src="~/img/team/team_member_2.png" alt="offer_img_1">
+                        <div class="hover_text">
+                            <p>jevenmartyn@Bufete.com</p>
+                            <div class="team_social_icon">
+                                <a href="#"> <span class="ti-twitter"></span> </a>
+                                <a href="#"> <span class="ti-skype"></span> </a>
+                                <a href="#"> <span class="ti-instagram"></span> </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team_member_info">
+                        <h4>Jeven Martyn</h4>
+                        <p>Penal</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_offer_part">
+                    <div class="single_offer">
+                        <img src="~/img/team/team_member_3.png" alt="offer_img_1">
+                        <div class="hover_text">
+                            <p>donaldtisar@Bufete.com</p>
+                            <div class="team_social_icon">
+                                <a href="#"> <span class="ti-twitter"></span> </a>
+                                <a href="#"> <span class="ti-skype"></span> </a>
+                                <a href="#"> <span class="ti-instagram"></span> </a>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="team_member_info">
+                        <h4>Donald Tisar</h4>
+                        <p>Familiar</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- team_part part end-->
+<!-- cta_part part start-->
+<section class="contact-us">
+    <div class="welcome-title-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6">
+                    <div class="Title-area contact-title">
+                        <h2>Consulta Gratis</h2>
+                        <p>Te invitamos a realizar una consulta con nuestro equipo de abogados altamente calificados.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- end title. it will use all pages title -->
+    <div class="container">
+        <div class="show_result light"></div>
+        <div class="result_message"></div>
+    </div>
+    <div class="contact-form">
+        <div class="container contact-bg no-padding">
+            @if (ViewBag.MsjPantalla != null)
+            {
+                <div style="text-align:center" class="alert alert-warning" role="alert">
+                    @ViewBag.MsjPantalla
+                </div>
+            }
+            @using (Html.BeginForm("ConsultaGratis", "Home", FormMethod.Post))
+            {
+                <form>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            @Html.TextBoxFor(m => m.Nombre, new { @type = "text", @class = "form-control", placeholder = "Nombre", id = "Nombre" })
+                        </div>
+                        <div class="col-sm-4">
+                            @Html.TextBoxFor(m => m.CorreoElectronico, new { @type = "email", @class = "form-control", @placeholder = "Correo Electrónico" })
+                        </div>
+                        <div class="col-sm-4">
+                            @Html.TextBoxFor(m => m.Motivo, new { @type = "text", @class = "form-control", placeholder = "Motivo", id = "Motivo" })
+                        </div>
+                        <div class="col-sm-12">
+                            @Html.TextBoxFor(m => m.Mensaje, new { @type = "textarea", @class = "form-control", placeholder = "Detalle del Caso", id = "Mensaje" })
+                        </div>
+                        <div class="col-sm-4 col-md-3 c-c-padding">
+                            <button type="submit" id="contact_submit" class="btn btn-dm">Eviar solicitud</button>
+                        </div>
+                        <div class="col-sm-8 col-md-9">
+                            <div class="form-right-text">
+                                <p>
+                                    Siéntase libre de recibir la primer consulta totalmente gratis y confidencial.
+                                    No se preocupe, nosotros nunca compartiremos su información para spam.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            }
+            </div>
+    </div>
+</section>
+<!--::review_part start::-->
+<section class="review_part section_padding section_bg">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-lg-9">
+                <!-- MAIN SLIDES -->
+                <div class="slider">
+                    <div data-index="1">
+                        <div class="client_review_text text-center">
+                            <p>
+                                Estoy muy agradecido por el excelente trabajo del equipo legal y notarial.
+                                Resolvieron mi caso con profesionalismo y prontitud. ¡Altamente recomendados!
+                            </p>
+
+                        </div>
+                    </div>
+                    <div data-index="2">
+                        <div class="client_review_text text-center">
+                            <p>
+                                Contratar a este bufete de abogados fue la mejor decisión que pude haber tomado.
+                                Su asesoramiento legal y atención personalizada me brindaron tranquilidad en momentos difíciles.
+                            </p>
+                        </div>
+                    </div>
+                    <div data-index="3">
+                        <div class="client_review_text text-center">
+                            <p>
+                                El proceso de documentación notarial fue rápido y sin complicaciones
+                                gracias al servicio eficiente y amable del notario.
+                                Sin duda, volveré a contar con sus servicios en el futuro.
+                            </p>
+                        </div>
+                    </div>
+                    <div data-index="4">
+                        <div class="client_review_text text-center">
+                            <p>
+                                El equipo legal me brindó una atención personalizada desde el principio.
+                                Estuvieron disponibles para responder a todas mis preguntas y lograron un
+                                resultado favorable en mi caso.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <!-- THUMBNAILS -->
+                <div class="slider-nav-thumbnails">
+                    <div class="slider-thumbnails">
+                        <img src="~/img/client/client_1.png" alt="slideimg" class="image">
+                        <div class="client_review_text text-center">
+                            <h3>Ryan Smith</h3>
+                            <h5>Ingeniero</h5>
+                        </div>
+                    </div>
+                    <div class="slider-thumbnails">
+                        <img src="~/img/client/client_2.png" alt="slideimg" class="image">
+                        <div class="client_review_text text-center">
+                            <h3>John Doe</h3>
+                            <h5>Arquitecto</h5>
+                        </div>
+                    </div>
+                    <div class="slider-thumbnails">
+                        <img src="~/img/client/client_3.png" alt="slideimg" class="image">
+                        <div class="client_review_text text-center">
+                            <h3>Richard Kellerman</h3>
+                            <h5>Periodista</h5>
+                        </div>
+                    </div>
+                    <div class="slider-thumbnails">
+                        <img src="~/img/client/client_4.png" alt="slideimg" class="image">
+                        <div class="client_review_text text-center">
+                            <h3>Daniel E Gilcritst</h3>
+                            <h5>Recursos Humanos</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--::blog_part end::-->

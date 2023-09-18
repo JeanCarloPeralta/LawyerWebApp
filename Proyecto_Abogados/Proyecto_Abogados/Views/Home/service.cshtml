@@ -1,0 +1,135 @@
+@model IEnumerable<Proyecto_Abogados.Entities.EspecialidadEnt>
+@{
+    ViewBag.Title = "service"; 
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<!-- breadcrumb start-->
+<section class="breadcrumb breadcrumb_bg">
+    <div class="container"> 
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb_iner text-center">
+                    <div class="breadcrumb_iner_item">
+                        <h2>Nuestros Servicios</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- breadcrumb start-->
+<!-- servicing start-->
+<section class="single_service section_padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7 col-sm-10">
+                <div class="section_tittle">
+                    <h2>Areas de Participacion</h2>
+                    <p>
+                        Ofrecemos asesoramiento y representación legal en áreas como derecho penal,
+                        derecho civil, derecho laboral, derecho de familia, derecho mercantil,
+                        propiedad intelectual, derecho fiscal, derecho ambiental, inmigración y derechos humanos.
+                    </p>
+                </div>
+            </div>
+        </div>
+        @if (ViewBag.MsjPantalla != null)
+        {
+            <div style="text-align:center" class="alert alert-warning" role="alert">
+                @ViewBag.MsjPantalla
+            </div>
+        }
+        <div class="row justify-content-between">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single_single_service">
+                        <img src="@Url.Content($"~/img/icon/service_{item.Id_Especialidad}.svg")" alt="#">
+                        <h4>@item.Nombre_Especialidad</h4>
+                        <p>@item.Descripcion</p>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+    <section class="review_part section_padding section_bg">
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-9">
+                    <!-- MAIN SLIDES -->
+                    <div class="slider">
+                        <div data-index="1">
+                            <div class="client_review_text text-center">
+                                <p>
+                                    Estoy muy agradecido por el excelente trabajo del equipo legal y notarial.
+                                    Resolvieron mi caso con profesionalismo y prontitud. ¡Altamente recomendados!
+                                </p>
+
+                            </div>
+                        </div>
+                        <div data-index="2">
+                            <div class="client_review_text text-center">
+                                <p>
+                                    Contratar a este bufete de abogados fue la mejor decisión que pude haber tomado.
+                                    Su asesoramiento legal y atención personalizada me brindaron tranquilidad en momentos difíciles.
+                                </p>
+                            </div>
+                        </div>
+                        <div data-index="3">
+                            <div class="client_review_text text-center">
+                                <p>
+                                    El proceso de documentación notarial fue rápido y sin complicaciones
+                                    gracias al servicio eficiente y amable del notario.
+                                    Sin duda, volveré a contar con sus servicios en el futuro.
+                                </p>
+                            </div>
+                        </div>
+                        <div data-index="4">
+                            <div class="client_review_text text-center">
+                                <p>
+                                    El equipo legal me brindó una atención personalizada desde el principio.
+                                    Estuvieron disponibles para responder a todas mis preguntas y lograron un
+                                    resultado favorable en mi caso.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <!-- THUMBNAILS -->
+                    <div class="slider-nav-thumbnails">
+                        <div class="slider-thumbnails">
+                            <img src="~/img/client/client_1.png" alt="slideimg" class="image">
+                            <div class="client_review_text text-center">
+                                <h3>Ryan Smith</h3>
+                                <h5>Ingeniero</h5>
+                            </div>
+                        </div>
+                        <div class="slider-thumbnails">
+                            <img src="~/img/client/client_2.png" alt="slideimg" class="image">
+                            <div class="client_review_text text-center">
+                                <h3>John Doe</h3>
+                                <h5>Arquitecto</h5>
+                            </div>
+                        </div>
+                        <div class="slider-thumbnails">
+                            <img src="~/img/client/client_3.png" alt="slideimg" class="image">
+                            <div class="client_review_text text-center">
+                                <h3>Richard Kellerman</h3>
+                                <h5>Periodista</h5>
+                            </div>
+                        </div>
+                        <div class="slider-thumbnails">
+                            <img src="~/img/client/client_4.png" alt="slideimg" class="image">
+                            <div class="client_review_text text-center">
+                                <h3>Daniel E Gilcritst</h3>
+                                <h5>Recursos Humanos</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--::blog_part end::-->

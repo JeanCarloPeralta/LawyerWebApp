@@ -1,0 +1,77 @@
+﻿@model Proyecto_Abogados.Entities.UsuarioEnt
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout_Login.cshtml";
+}
+
+<section class="login">
+    <div class="login_box">
+        <div class="left">
+            <div class="top_link">
+                <a href="@Url.Action("Index", "Home")"><i class="bi bi-arrow-left-circle"></i>  Regresar al inicio</a>
+            </div>
+            <div class="button-group">
+                <button class="button custom-button-sig" onclick="showSignInForm()">Ingresar</button>
+                <button class="button custom-button" onclick="showRegisterForm()">Registrarse</button>
+            </div>
+            @if (ViewBag.MsjPantalla != null)
+            {
+                <div style="text-align:center" class="alert alert-warning" role="alert">
+                    @ViewBag.MsjPantalla
+                </div>
+            }
+            @using (Html.BeginForm("IniciarSesion", "Home", FormMethod.Post))
+            {
+                <div class="contact" id="loginForm" style="display: block;">
+                    <form action="">
+                        <h3>INGRESO</h3>
+                        @Html.TextBoxFor(m => m.Correo_Electronico, new { @type = "email", @class = "form-control", @placeholder = "correo@correo.com" })
+
+                        @Html.TextBoxFor(m => m.Contrasenna, new { @type = "password", @class = "form-control", placeholder = "Contraseña" })
+                        <button class="submit">INGRESAR</button>
+                    </form>
+                </div>
+            }
+            @using (Html.BeginForm("RegistrarUsuario", "Home", FormMethod.Post))
+            {
+                <div class="contact" id="registerForm" style="display: none;">
+                    <form action="">
+                        <h3>REGISTRARSE</h3>
+                        @Html.TextBoxFor(m => m.Identificacion, new { @type = "text", @class = "form-control", placeholder = "Identificación", pattern = "^[^/s]+$", id = "CedulaInput" })
+
+                        @Html.TextBoxFor(m => m.Nombre, new { @type = "text", @class = "form-control", placeholder = "Nombre", id = "Nombre" })
+
+                        @Html.TextBoxFor(m => m.Correo_Electronico, new { @type = "email", @class = "form-control", @placeholder = "Correo Electrónico" })
+
+                        @Html.TextBoxFor(m => m.Contrasenna, new { @type = "password", @class = "form-control", placeholder = "Contraseña" })
+                        <button class="submit">REGISTRARSE</button>
+                    </form>
+                </div>
+            }
+            @using (Html.BeginForm("RecuperarClave", "Home", FormMethod.Post))
+            {
+                <div class="contact" id="recoverForm" style="display: none;">
+                    <form action="">
+                        <h3>RECUPERACIÓN</h3>
+                        @Html.TextBoxFor(m => m.Correo_Electronico, new { @type = "email", @class = "form-control", @placeholder = "Correo Electrónico" })
+                        <button class="submit">RECUPERAR</button>
+                    </form>
+                </div>
+            }
+            <div class="bottom_link" id="recoverLink" style="display: block;">
+                <a href="#" onclick="showRecoverForm()">Recuperar contraseña</a>
+            </div>
+            <div class="bottom_link" id="returnLink" style="display: none;">
+                <a href="#" onclick="showSignInForm()">Regresar</a>
+            </div>
+        </div>
+        <div class="right">
+            <div class="right-text">
+                <h2>BUFETE DE ABOGADOS</h2>
+                <h5>"Defendiendo sus derechos con experiencia y dedicación"</h5>
+            </div>
+            <div class="right-inductor"><img src="https://lh3.googleusercontent.com/fife/ABSRlIoGiXn2r0SBm7bjFHea6iCUOyY0N2SrvhNUT-orJfyGNRSMO2vfqar3R-xs5Z4xbeqYwrEMq2FXKGXm-l_H6QAlwCBk9uceKBfG-FjacfftM0WM_aoUC_oxRSXXYspQE3tCMHGvMBlb2K1NAdU6qWv3VAQAPdCo8VwTgdnyWv08CmeZ8hX_6Ty8FzetXYKnfXb0CTEFQOVF4p3R58LksVUd73FU6564OsrJt918LPEwqIPAPQ4dMgiH73sgLXnDndUDCdLSDHMSirr4uUaqbiWQq-X1SNdkh-3jzjhW4keeNt1TgQHSrzW3maYO3ryueQzYoMEhts8MP8HH5gs2NkCar9cr_guunglU7Zqaede4cLFhsCZWBLVHY4cKHgk8SzfH_0Rn3St2AQen9MaiT38L5QXsaq6zFMuGiT8M2Md50eS0JdRTdlWLJApbgAUqI3zltUXce-MaCrDtp_UiI6x3IR4fEZiCo0XDyoAesFjXZg9cIuSsLTiKkSAGzzledJU3crgSHjAIycQN2PH2_dBIa3ibAJLphqq6zLh0qiQn_dHh83ru2y7MgxRU85ithgjdIk3PgplREbW9_PLv5j9juYc1WXFNW9ML80UlTaC9D2rP3i80zESJJY56faKsA5GVCIFiUtc3EewSM_C0bkJSMiobIWiXFz7pMcadgZlweUdjBcjvaepHBe8wou0ZtDM9TKom0hs_nx_AKy0dnXGNWI1qftTjAg=w1920-h979-ft" alt=""></div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,207 @@
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; }
+<!-- breadcrumb start-->
+<section class="breadcrumb breadcrumb_bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb_iner text-center">
+                    <div class="breadcrumb_iner_item">
+                        <h2>Sobre Nosotros</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- breadcrumb start-->
+<!-- about part start-->
+<section class="about_part section_padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="section_tittle text-center">
+                    <h2>
+                        La verdad de los abogados no es la verdad,
+                        sino la coherencia o una conveniencia coherente
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-7 col-sm-7">
+                <div class="about_part_img">
+                    <img src="~/img/about_1.png" alt="#">
+                </div>
+            </div>
+            <div class="col-lg-5 col-sm-5 d-none d-sm-block">
+                <div class="about_part_img">
+                    <img src="~/img/about_2.png" alt="#">
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="about_text text-center">
+                    <p>
+                        "La justicia es la reina de las virtudes republicanas y con ella se sostiene la igualdad y la libertad". - Simón Bolívar
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- about part end-->
+<!-- Service part start-->
+<section class="service_part section_padding mr_bottom">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_service_part">
+                    <div class="single_service_text">
+                        <span class="flaticon-law"></span>
+                        <h2>Obtener asesoramiento jurídico</h2>
+                        <p>
+                            Si estás enfrentando una situación legal compleja y necesitas orientación,
+                            nuestro equipo de expertos está aquí para brindarte el asesoramiento jurídico que necesitas.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_service_part">
+                    <div class="single_service_text">
+                        <span class="flaticon-scale"></span>
+                        <h2>Revisar un caso</h2>
+                        <p>
+                            Nuestros abogados y notarios altamente capacitados analizarán detenidamente
+                            todos los detalles y documentos pertinentes relacionados con su situación legal.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_service_part">
+                    <div class="single_service_text">
+                        <span class="flaticon-siren"></span>
+                        <h2>Garantía de victoria</h2>
+                        <p>En nuestro bufete, nos enorgullecemos de brindar una representación legal excepcional a nuestros clientes.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_service_part">
+                    <div class="single_service_text">
+                        <span class="flaticon-policeman"></span>
+                        <h2>Apoyo total</h2>
+                        <p>Nuestra misión es brindar un servicio legal y notarial integral que supere las expectativas de nuestros clientes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Service part end-->
+<!-- cta_part part start-->
+<section class="cta_area">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="cta_text">
+                    <h2>
+                        Te invitamos a realizar una consulta con nuestro equipo de abogados altamente calificados.
+                    </h2>
+                    @if (Session["Id_Usuario"] != null)
+                    {
+                        <a href="@Url.Action("Cita", "Home")" class="cta_btn">Realizar la Consulta</a>
+                    }
+                    @if (Session["Id_Usuario"] == null)
+                    {
+                        <a href="@Url.Action("Login", "Home")" class="cta_btn">Realizar la Consulta</a>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- cta_part part end-->
+<!--::review_part start::-->
+<section class="review_part section_padding section_bg">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-lg-9">
+                <!-- MAIN SLIDES -->
+                <div class="slider">
+                    <div data-index="1">
+                        <div class="client_review_text text-center">
+                            <p>
+                                Estoy muy agradecido por el excelente trabajo del equipo legal y notarial.
+                                Resolvieron mi caso con profesionalismo y prontitud. ¡Altamente recomendados!
+                            </p>
+
+                        </div>
+                    </div>
+                    <div data-index="2">
+                        <div class="client_review_text text-center">
+                            <p>
+                                Contratar a este bufete de abogados fue la mejor decisión que pude haber tomado.
+                                Su asesoramiento legal y atención personalizada me brindaron tranquilidad en momentos difíciles.
+                            </p>
+                        </div>
+                    </div>
+                    <div data-index="3">
+                        <div class="client_review_text text-center">
+                            <p>
+                                El proceso de documentación notarial fue rápido y sin complicaciones
+                                gracias al servicio eficiente y amable del notario.
+                                Sin duda, volveré a contar con sus servicios en el futuro.
+                            </p>
+                        </div>
+                    </div>
+                    <div data-index="4">
+                        <div class="client_review_text text-center">
+                            <p>
+                                El equipo legal me brindó una atención personalizada desde el principio.
+                                Estuvieron disponibles para responder a todas mis preguntas y lograron un
+                                resultado favorable en mi caso.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <!-- THUMBNAILS -->
+                <div class="slider-nav-thumbnails">
+                    <div class="slider-thumbnails">
+                        <img src="~/img/client/client_1.png" alt="slideimg" class="image">
+                        <div class="client_review_text text-center">
+                            <h3>Ryan Smith</h3>
+                            <h5>Ingeniero</h5>
+                        </div>
+                    </div>
+                    <div class="slider-thumbnails">
+                        <img src="~/img/client/client_2.png" alt="slideimg" class="image">
+                        <div class="client_review_text text-center">
+                            <h3>John Doe</h3>
+                            <h5>Arquitecto</h5>
+                        </div>
+                    </div>
+                    <div class="slider-thumbnails">
+                        <img src="~/img/client/client_3.png" alt="slideimg" class="image">
+                        <div class="client_review_text text-center">
+                            <h3>Richard Kellerman</h3>
+                            <h5>Periodista</h5>
+                        </div>
+                    </div>
+                    <div class="slider-thumbnails">
+                        <img src="~/img/client/client_4.png" alt="slideimg" class="image">
+                        <div class="client_review_text text-center">
+                            <h3>Daniel E Gilcritst</h3>
+                            <h5>Recursos Humanos</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--::blog_part end::-->
